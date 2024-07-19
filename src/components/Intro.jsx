@@ -30,15 +30,15 @@ const Intro = () => {
             />
           </div>
         </div>
-        <div className="intro__lines bottom" aria-hidden="true">
+        {/* <div className="intro__lines bottom" aria-hidden="true"> */}
+          {/* <span className="line"></span>
           <span className="line"></span>
           <span className="line"></span>
           <span className="line"></span>
           <span className="line"></span>
           <span className="line"></span>
-          <span className="line"></span>
-          <span className="line"></span>
-        </div>
+          <span className="line"></span> */}
+        {/* </div> */}
       </div>
     </section>
   );
